@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      - "src/recommendation/**"
-      - "k8s/**"
+      - "ultimate-devops-project-demo/src/recommendation/**"
+      - "ultimate-devops-project-demo/k8s/**"
       - ".github/workflows/recommendation-deploy.yaml"
 
 permissions:
